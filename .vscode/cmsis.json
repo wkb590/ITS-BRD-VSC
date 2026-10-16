@@ -1,0 +1,12 @@
+{
+    "targetSet": {
+        "Programs/GTWoche1ASM/GTWoche1ASM": {
+            "activeTargetType": "ITSboard_Assembly"
+        },
+        "Programs/Test2ASM/Test2ASM": {
+            "activeTargetType": "ITSboard_Assembly"
+        }
+    },
+    "activeSolution": "../Programs/GTWoche1ASM/GTWoche1ASM.csolution.yml",
+    "activeTarget": "ITSboard_Assembly"
+}
