@@ -5,8 +5,11 @@
         },
         "Programs/Test2ASM/Test2ASM": {
             "activeTargetType": "ITSboard_Assembly"
+        },
+        "Programs/A2ASM/A2ASM": {
+            "activeTargetType": "ITSboard_Assembly"
         }
     },
-    "activeSolution": "../Programs/GTWoche1ASM/GTWoche1ASM.csolution.yml",
+    "activeSolution": "../Programs/A2ASM/A2ASM.csolution.yml",
     "activeTarget": "ITSboard_Assembly"
 }
